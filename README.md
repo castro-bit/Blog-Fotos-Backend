@@ -18,7 +18,7 @@ Este projeto é um blog de fotos desenvolvido com Node.js e a API do Google Gemi
 ## Instalação
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/Blog-Fotos-Backend.git
+    git clone https://github.com/castro-bit/Blog-Fotos-Backend.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
